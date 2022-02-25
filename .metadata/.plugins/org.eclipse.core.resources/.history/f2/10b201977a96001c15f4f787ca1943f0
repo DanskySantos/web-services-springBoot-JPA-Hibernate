@@ -1,0 +1,5 @@
+package com.dansky.course.repositories;
+
+public class UserRepository {
+
+}

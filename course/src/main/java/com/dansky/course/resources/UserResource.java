@@ -4,9 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.dansky.course.entities.User;
 import com.dansky.course.services.UserService;
@@ -24,4 +22,19 @@ public class UserResource {
 		return ResponseEntity.ok().body(list);
 	}
 
+//	@PostMapping
+//	public User createPerson(@RequestBody User person) {
+//		return service.save(person);
+//	}
+
+//	@PutMapping
+//	public User updatePerson(@RequestBody User person) {
+//		return service.save(person);
+//	}
+//
+//	@DeleteMapping("/{id}")
+//	public String deletePerson (@PathVariable Integer id) {
+//		service.delete(id);
+//		return id + " deletado ";
+//	}
 }

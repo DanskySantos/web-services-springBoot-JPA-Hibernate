@@ -782,3 +782,75 @@ Contains: Missing org.springframework.boot:spring-boot-starter-test:jar:javadoc:
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:02:43.298
 !MESSAGE executing callback sts4.classpath.TxMbVkIF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:43:25.430
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:43:25.436
+!MESSAGE classpath=104 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:43:25.439
+!MESSAGE buffering callback sts4.classpath.TxMbVkIF course false 104
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:43:25.439
+!MESSAGE executing callback sts4.classpath.TxMbVkIF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:43:25.475
+!MESSAGE executing callback sts4.classpath.TxMbVkIF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:44:45.656
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:44:45.659
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:44:45.663
+!MESSAGE buffering callback sts4.classpath.TxMbVkIF course false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:44:45.663
+!MESSAGE executing callback sts4.classpath.TxMbVkIF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:44:45.689
+!MESSAGE executing callback sts4.classpath.TxMbVkIF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:07.404
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:07.407
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:07.409
+!MESSAGE buffering callback sts4.classpath.TxMbVkIF course false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:07.410
+!MESSAGE executing callback sts4.classpath.TxMbVkIF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:07.424
+!MESSAGE executing callback sts4.classpath.TxMbVkIF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:54.397
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:54.399
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:54.402
+!MESSAGE buffering callback sts4.classpath.TxMbVkIF course false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:54.402
+!MESSAGE executing callback sts4.classpath.TxMbVkIF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 18:45:54.416
+!MESSAGE executing callback sts4.classpath.TxMbVkIF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 19:03:25.280
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TxMbVkIF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 19:03:25.290
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TxMbVkIF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 19:03:25.291
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-25 19:03:25.292
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TxMbVkIF => OK

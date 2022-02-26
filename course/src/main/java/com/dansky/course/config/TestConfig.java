@@ -14,6 +14,14 @@ import com.dansky.course.repositories.UserRepository;
 @Profile("test")
 public class TestConfig implements CommandLineRunner {
 
+//	@Autowired
+//	private UserRepository userRepository;
+//
+//	@Override
+//	public void run(String... args) throws Exception {
+//
+//	}
+
 	@Autowired
 	private UserRepository userRepository;
 

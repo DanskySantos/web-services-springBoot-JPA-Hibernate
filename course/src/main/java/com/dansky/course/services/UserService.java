@@ -13,8 +13,12 @@ public class UserService {
 
 	@Autowired
 	private UserRepository repository;
-	
+
 	public List<User> findAll() {
 		return repository.findAll();
 	}
+
+	//public User save(User user) { return repository.save(user); }
+
+	//public void delete(Integer id) {repository.deleteById(id.longValue());}
 }

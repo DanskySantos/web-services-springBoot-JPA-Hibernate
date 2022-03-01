@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/course/pom.xml" />
         <option value="$PROJECT_DIR$/course/target/classes/META-INF/maven/com.dansky/course/pom.xml" />
       </list>
     </option>

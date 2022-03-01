@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/course/target/classes/META-INF/maven/com.dansky/course/course.iml" filepath="$PROJECT_DIR$/course/target/classes/META-INF/maven/com.dansky/course/course.iml" />
       <module fileurl="file://$PROJECT_DIR$/course/course (1).iml" filepath="$PROJECT_DIR$/course/course (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
     </modules>
